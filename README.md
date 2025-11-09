@@ -82,5 +82,5 @@ If no license is specified, please assume “All rights reserved” until clarif
 
 For issues, suggestions or contributions, please open an issue on the GitHub repository or contact the author.
 
-Thank you for checking out File-Explorer! Feel free to use, modify or extend it to suit your needs.
+Thank you for checking out File-Explorer!
 ---
